@@ -1,0 +1,16 @@
+# Backup files
+*.bak
+
+# Compiled executables
+main
+array_iterator
+holberton_test
+b
+
+# Temporary / processed files
+.processed_files
+
+# Object files (if you compile)
+*.o
+*.out
+
