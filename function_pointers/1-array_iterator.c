@@ -6,26 +6,23 @@
 * @array: pointer to the integer array
 * @size: size of the array
 * @action: pointer to the function to execute on each array element
-*/
-
-/**
-* array_interator - a Function that ...
+*
+* array_iterator - a Function that ...
 * @array: Description of array.
 * @size: Description of size.
 * @(*action: Description of (*action.
 * Return: Description of the return value.
 */
-void array_interator(int *array, size_t size, void (*action)(int))
+void array_iterator(int *array, size_t size, void (*action)(int))
 {
-    size_t i;
+size_t i;
 
-    if (array == NULL || action == NULL)
-    {
-        return;
-    }
-    for (i = 0; i < size; i++)
-    {
-        action(array[i]);
-    }
+if (array == NULL || action == NULL)
+{
+return;
 }
-
+for (i = 0; i < size; i++)
+{
+action(array[i]);
+}
+}
