@@ -14,3 +14,16 @@ b
 *.o
 *.out
 
+#
+ 3-op_functions
+        C_Function_pointers.txt
+        do_to_stash
+        int_index_test
+        main.c
+        main.h
+        ../pointers_arrays_strings/3-
+        ../pointers_arrays_strings/_putchar.c
+        ../pointers_arrays_strings/holberton_test
+        ../pointers_arrays_strings/main.c
+        ../pointers_arrays_strings/test_main.c
+        ../pointers_arrays_strings/test_main.h
