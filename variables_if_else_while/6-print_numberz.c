@@ -16,5 +16,5 @@ number++;
 } while (number <= 57);
 
 putchar ('\n');
-return (0)
+return (0);
 }
