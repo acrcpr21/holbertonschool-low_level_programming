@@ -6,16 +6,16 @@
 */
 int main(void)
 {
-    /* letters & variable characters */
-    char letter;
+/* letters & variable characters */
+char letter;
 
-    */ Loop with ASCII values of the lowercase letters (a-z)*/
-    for (letter = 'a'; letter <= 'z'; letter++)
-        putchar(letter); /* This is going to print each letter, one by one */
-        /* Loop with ASCII values of the uppercase letters (A-Z) */
-        for (letter = 'A'; letter <= 'Z'; letter++)
-            putchar(letter);
+/* Loop with ASCII values of the lowercase letters (a-z)*/
+for (letter = 'a'; letter <= 'z'; letter++)
+putchar(letter); /* This is going to print each letter, one by one */
+/* Loop with ASCII values of the uppercase letters (A-Z) */
+for (letter = 'A'; letter <= 'Z'; letter++)
+putchar(letter);
 
-            putchar('\n'); /* this prints a newline after the alphabet code */
-            return (0);
+putchar('\n'); /* this prints a newline after the alphabet code */
+return (0);
 }

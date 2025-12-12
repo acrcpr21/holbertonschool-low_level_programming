@@ -7,14 +7,14 @@
 
 int main(void)
 {
-    int number;
-    number = 48;
-    do {
-        putchar(number);
-        number++;
+int number;
+number = 48;
+do {
+putchar(number);
+number++;
 
-    } while (number <= 57);
+} while (number <= 57);
 
-    putchar ('\n');
-    return (0)
+putchar ('\n');
+return (0)
 }
