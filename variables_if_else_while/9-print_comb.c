@@ -11,5 +11,5 @@ putchar(numbers);
 (numbers < 57) ? putchar(44) : 0,
 (numbers < 57) ? putchar(32) : 0;
 putchar(10);
-return(0);
+return (0);
 }
