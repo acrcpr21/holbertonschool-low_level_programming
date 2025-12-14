@@ -9,6 +9,7 @@
 int print_sign(int n)
 {
 if (n > 0)
+<<<<<<< HEAD
 {
 _putchar('+');
 return (1);
@@ -23,4 +24,13 @@ else
 _putchar('-');
 return (-1);
 }
+=======
+_putchar('+');
+return 1;
+if (n < 0)
+_putchar('-');
+return -1;
+_putchar('0');
+return 0;
+>>>>>>> 8142c560fcb41e0a28d6d7517672ae9a22bcc69f
 }
