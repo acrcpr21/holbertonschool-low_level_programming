@@ -20,7 +20,7 @@ int print_last_digit(int n);
 /* Prototype for 8‑24_hours */
 void jack_bauer(void);
 /* Prototype for 9‑times_table */
-void void_times_table(void);
+void times_table(void);
 /* Prototype for 10‑add */
 int add(int a, int b);
 /* Prototype for 11‑print_to_98 */
