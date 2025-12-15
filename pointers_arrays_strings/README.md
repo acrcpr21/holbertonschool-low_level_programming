@@ -1,1 +1,4 @@
-"In this directory we are going to work with strings, arrays, and pointers."
+# Project: Even more pointers, arrays and strings
+
+## Tasks
+- 100-set_string.c
