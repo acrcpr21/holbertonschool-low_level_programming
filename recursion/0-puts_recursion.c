@@ -14,8 +14,4 @@ else
 _putchar(*s);
 _puts_recursion(s + 1);
 }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> eeaae0998fc66caf57fe723b11820160fcbb84a9
