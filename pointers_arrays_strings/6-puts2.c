@@ -6,5 +6,7 @@
  */
 void puts2(char *str)
 {
-	(void)str;
+	while (*str)
+		_putchar(*str++);
+	_putchar('\n');
 }

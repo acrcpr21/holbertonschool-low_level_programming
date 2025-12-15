@@ -7,6 +7,7 @@
  */
 void print_array(int *a, int n)
 {
-	(void)a;
-	(void)n;
+	while (*a)
+		_putchar(*a++);
+	_putchar('\n');
 }

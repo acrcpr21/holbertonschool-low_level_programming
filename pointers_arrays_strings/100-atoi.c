@@ -7,6 +7,7 @@
  */
 int _atoi(char *s)
 {
-	(void)s;
+	while (*s)
+		_putchar(*s++);
 	return (0);
 }
