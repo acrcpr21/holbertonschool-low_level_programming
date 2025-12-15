@@ -14,4 +14,3 @@ digit = -digit;
 _putchar(digit + '0');
 return (digit);
 }
-
