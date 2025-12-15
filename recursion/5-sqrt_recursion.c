@@ -10,11 +10,11 @@
  */
 int _sqrt_helper(int n, int sqr)
 {
-	if (sqr * sqr == n)
-		return (sqr);
-	if (sqr * sqr > n)
-		return (-1);
-	return (_sqrt_helper(n, sqr + 1));
+if (sqr * sqr == n)
+return (sqr);
+if (sqr * sqr > n)
+return (-1);
+return (_sqrt_helper(n, sqr + 1));
 }
 
 
