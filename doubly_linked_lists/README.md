@@ -1,4 +1,4 @@
-# Project 12: Doubly linked lists
+# Project 21: Doubly linked lists
 
 ## Tasks
 - 0-print_dlistint.c
