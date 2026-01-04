@@ -1,0 +1,32 @@
+# Object files
+*.o
+
+# Compiled Binaries
+main
+0-memset
+functions_nested_loops/0-putchar
+functions_nested_loops/4-isalpha
+functions_nested_loops/5-sign
+hello_world/0-preprocessor
+hello_world/1-compiler
+hello_world/2-assembler
+hello_world/3-name
+hello_world/6-size_1
+hello_world/test
+more_functions_nested_loops/0-isuper
+more_functions_nested_loops/0-isupper
+more_functions_nested_loops/1-isdigit
+more_functions_nested_loops/2-mul
+more_functions_nested_loops/3-print_numbers
+more_functions_nested_loops/4-print_most_numbers
+more_functions_nested_loops/5-more_numbers
+more_functions_nested_loops/6-print_line
+more_functions_nested_loops/7-print_diagonal
+more_functions_nested_loops/8-print_square
+more_functions_nested_loops/9-fizz_buzz
+multidimensional_array
+pointers_arrays_strings/1-memcpy_0
+pointers_arrays_strings/test_atoi
+pointers_to_pointers
+recursion/5-sqrt_recursion
+recursion/6-prime
